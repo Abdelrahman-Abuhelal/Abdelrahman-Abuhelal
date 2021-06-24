@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Abdelrahman-Abuhelal
 - 👀 I’m interested in algorithims and java 
 - 🌱 I’m currently learning java and android
-- 💞️ I’m looking to collaborate on java simple projects
+- 💞️ I’m looking to collaborate on simple java projects
 
 
 <!---
