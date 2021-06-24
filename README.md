@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Abdelrahman-Abuhelal
-- 👀 I’m interested in algorithims and data structure
+- 👀 I’m interested in algorithms and data structure
 - 🌱 I’m currently learning java and android
 - 💞️ I’m looking to collaborate on simple java projects
 
