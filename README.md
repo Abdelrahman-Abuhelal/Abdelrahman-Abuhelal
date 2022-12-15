@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Abdelrahman-Abuhelal
-- 👀 I’m interested in algorithms and data structure
-- 🌱 I’m currently learning java and spring framework
+- 👀 I’m interested in OOP and Data Structures
+- 🌱 I’m currently learning Spring framework
 - 💞️ I’m looking to collaborate on spring projects
 
