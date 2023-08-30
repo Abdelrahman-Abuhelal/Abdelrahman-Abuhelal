@@ -17,13 +17,6 @@
 
 - 📄 Resume [sdasd](sdasd)
 
-
-<br /><br />
-<h2 align="center">Let's Connect 😎</h2>
-<p align="center">
-  <a href = "mailto:abd.hilal14@gmail.com"><img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height = 30></a>
-  <a href = "https://www.linkedin.com/in/abdelrahman-abuhelal/"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"     height = 30></a>
- 
 </p>
 
 
@@ -35,3 +28,9 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdelrahman-abuhelal&show_icons=true&locale=en&layout=compact" alt="abdelrahman-abuhelal" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdelrahman-abuhelal&show_icons=true&locale=en" alt="abdelrahman-abuhelal" /></p>
 
+<br /><br />
+<h2 align="center">Let's Connect 😎</h2>
+<p align="center">
+  <a href = "mailto:abd.hilal14@gmail.com"><img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height = 30></a>
+  <a href = "https://www.linkedin.com/in/abdelrahman-abuhelal-4866851b8/"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"     height = 30></a>
+ 
