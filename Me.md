@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **abd.hilal14@gmail.com.**
 
-- 📄 Resume [sdasd](sdasd)
+- 📄 My Website [sdasd](sdasd)
 
 </p>
 <br />
