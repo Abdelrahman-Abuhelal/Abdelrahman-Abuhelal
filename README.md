@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Abdelrahman Abuhelal</h1>
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Hi%20there%20%F0%9F%91%8B&fontSize=90)
+
+<h1 align="center">I'm Abdelrahman Abuhelal</h1>
 <h3 align="center">Junior backend developer from Palestine</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdelrahman-abuhelal&label=Profile%20views&color=0e75b6&style=flat" alt="abdelrahman-abuhelal" /> </p>
