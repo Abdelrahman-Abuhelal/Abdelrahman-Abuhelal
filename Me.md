@@ -5,15 +5,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdelrahman-abuhelal&label=Profile%20views&color=0e75b6&style=flat" alt="abdelrahman-abuhelal" /> </p>
 
-- 🔭 I’m currently working on **Graduation Project**
+- 🔭 I’m currently working on **Graduation Project.**
 
-- 🌱 I’m currently learning **Spring framework**
+- 🌱 My main area expertise built in top of Java. I have worked with **Spring framework** (Core,Data,Boot,JPA,AOP,Integration), Hibernate, JPA.
 
-- 👯 I’m looking to collaborate on **generative AI and backend projects**
+- 👯 I’m looking to collaborate on **generative AI and backend projects.**
 
-- 🤝 I’m Intern in Global Bosch and Exalt company **SNAKE project**
+- 🤝 I’m Intern in Global Bosch and Exalt company **SNAKE project.**
 
-- 📫 How to reach me **abd.hilal14@gmail.com**
+- 📫 How to reach me **abd.hilal14@gmail.com.**
 
 - 📄 Resume [sdasd](sdasd)
 
