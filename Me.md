@@ -11,7 +11,9 @@
 
 - 👯 I’m looking to collaborate on **generative AI and backend projects.**
 
-- 🤝 I’m Intern in Global Bosch and Exalt company **SNAKE project.**
+- 🤝 Former Intern in **Global Bosch.**
+  
+- 🤝 Two years of experinece as Backend Intern at **Exalt technolgies.**
 
 - 📫 How to reach me **abd.hilal14@gmail.com.**
 
