@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **abd.hilal14@gmail.com.**
 
-- 📄 Checkout my website: [protofolio link]([www.google.com](https://portfolio-xf7d.onrender.com/))
+- 📄 Checkout my website: [protofolio link]([www.google.com](https://portfolio-xf7d.onrender.com))
 
 </p>
 <br />
