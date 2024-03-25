@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Graduation Project.**
 
-- 🌱 My main area expertise built in top of Java development. I have worked with **Spring framework**, **Spring security**, Hibernate and API development.
+- 🌱 My main area expertise built in top of web and API development using **Spring framework**, **Spring security**, Hibernate and MySQL.
 
 - 👯 I’m looking to collaborate on **generative AI and backend projects.**
 
