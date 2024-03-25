@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Graduation Project.**
 
-- 🌱 My main area expertise built in top of Java. I have worked with **Spring framework** (Core,Data,Boot,JPA,AOP,Integration), Hibernate, JPA.
+- 🌱 My main area expertise built in top of Java development. I have worked with **Spring framework**, **Spring security**, Hibernate and API development.
 
 - 👯 I’m looking to collaborate on **generative AI and backend projects.**
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **abd.hilal14@gmail.com.**
 
-- 📄 Checkout my website: [portfolio](https://abdelrahman-abuhelal.netlify.app)
+- 📄 Checkout my [website](https://abdelrahman-abuhelal.netlify.app).
 
 </p>
 <br />
