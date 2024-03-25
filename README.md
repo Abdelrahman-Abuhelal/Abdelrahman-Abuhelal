@@ -1,13 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Hi%20there%20%F0%9F%91%8B&fontSize=90)
 
 <h1 align="center">I'm Abdelrahman Abuhelal</h1>
-<h3 align="center">Junior backend developer from Palestine</h3>
+<h3 align="center">Backend developer from Palestine</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdelrahman-abuhelal&label=Profile%20views&color=0e75b6&style=flat" alt="abdelrahman-abuhelal" /> </p>
 
 - 🔭 I’m currently working on **Graduation Project.**
 
-- 🌱 My main area expertise built in top of web and API development using **Spring framework**, **Spring security**, Hibernate and MySQL.
+- 🌱 My main area expertise built in top of web and API development using **Spring Boot**, **Spring Security**, **Hibernate** and **MySQL**.
 
 - 👯 I’m looking to collaborate on **generative AI and backend projects.**
 
