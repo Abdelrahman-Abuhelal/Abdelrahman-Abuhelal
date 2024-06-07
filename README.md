@@ -1,11 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Hi%20there%20%F0%9F%91%8B&fontSize=90)
 
 <h1 align="center">I'm Abdelrahman Abuhelal</h1>
-<h3 align="center">Backend developer from Palestine</h3>
+<h3 align="center">Software Developer from Palestine</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdelrahman-abuhelal&label=Profile%20views&color=0e75b6&style=flat" alt="abdelrahman-abuhelal" /> </p>
 
-- 🔭 I’m currently working on **Graduation Project.**
+- 🔭 I’m currently working on **Graduation Project for Exalt Tech Company.**
 
 - 🌱 My main area expertise built in top of web and API development using **Spring Boot**, **Spring Security**, **Hibernate** and **MySQL**.
 
@@ -15,9 +15,10 @@
   
 - 🤝 Two years of experinece as Backend Intern at **Exalt technolgies.**
 
-- 📫 How to reach me **abd.hilal14@gmail.com.**
-
 - 📄 Checkout my [website](https://abdelrahman-abuhelal.netlify.app).
+
+- 📫 Gmail: **abd.hilal14@gmail.com.**
+
 
 </p>
 <br />
