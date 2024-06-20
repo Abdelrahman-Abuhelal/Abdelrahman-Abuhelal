@@ -3,8 +3,6 @@
 <h1 align="center">I'm Abdelrahman Abuhelal</h1>
 <h3 align="center">Software Developer from Palestine</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdelrahman-abuhelal&label=Profile%20views&color=0e75b6&style=flat" alt="abdelrahman-abuhelal" /> </p>
-
 
 - 🔭 I’m currently working on **Graduation Project for Exalt Tech Company.**
 
