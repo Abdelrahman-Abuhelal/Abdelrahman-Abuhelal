@@ -4,11 +4,11 @@
 <h3 align="center">Software Developer from Palestine</h3>
 
 
-- 🔭 I’m currently working on **Graduation Project for Exalt Tech Company.**
+- 🔭 I’m currently working on **My Graduation Project for a Tech Company.**
 
 - 🌱 My main area expertise built in top of web and API development using **Spring Boot**, **Spring Security**, **Hibernate** and **MySQL**.
 
-- 👯 I’m looking to collaborate on **generative AI and backend projects.**
+- 👯 I’m looking to collaborate on **fullstack projects.**
 
 - 🤝 Former Intern in **Global Bosch.**
   
@@ -22,9 +22,14 @@
 
 
 
-## 🔥 Github Streaks
-[![GitHub Streak](https://streak-stats.demolab.com/?user=batooldshilleh)](https://git.io/streak-stats)
 
+### :fire: My Stats :
+<div align="center">
+  
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=abdelrahman-abuhelal&exclude_days=Mon%2CTue%2CSat&theme=github-dark-dimmed&hide_border=true&stroke=EBEBEB00&date_format=j%20M%5B%20Y%5D&background=EB545400&excludeDaysLabel=EB545400)](https://github.com/abdelrahman-abuhelal?tab=repositories)
+
+
+</div> 
 
 </p>
 
