@@ -10,9 +10,9 @@
 
 - 👯 I’m looking to collaborate on **fullstack projects.**
 
-- 🤝 Former Intern in **Global Bosch.**
+- 🤝 Former Intern at **Global Bosch.**
   
-- 🤝 Two years of experinece as Backend Intern at **Exalt technolgies.**
+- 🤝 Two years of experinece as Backend developer at **Exalt technolgies.**
 
 - 📄 Checkout my [**Personal Website**](https://abdelrahman-abuhelal.netlify.app).
   
