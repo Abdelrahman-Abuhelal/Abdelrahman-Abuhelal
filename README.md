@@ -8,7 +8,7 @@
 
 - 🌱 My main area expertise built in top of web and API development using **Spring Boot**, **Spring Security**, **Hibernate** and **MySQL**.
 
-- 👯 I’m looking to collaborate on **fullstack projects.**
+- 👯 I’m looking to collaborate on **fullstack projects.** with interest of Generative AI Applications.
 
 - 🤝 Former Intern at **Global Bosch.**
   
