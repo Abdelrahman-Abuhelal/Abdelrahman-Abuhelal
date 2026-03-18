@@ -24,7 +24,7 @@
   **https://abdelrahman-abuhelal.vercel.app/**
 
 - 📄 View my **Updated Resume:**  
-  **<a href="https://docs.google.com/document/d/1wyfRV3vjNi-SoAJdXvTja1q3KBXa7PBA3x890_CAfRs/edit?usp=sharing" target="_blank">Resume</a>**
+  **<a href="https://docs.google.com/document/d/10oBTZc3pV6dRiCzodu1wxb8cQlgW1QWM6DqK2abBCfI/edit?usp=sharing" target="_blank">Resume</a>**
 
 - 📩 Reach me on: [**Email**](mailto:abd.hilal14@gmail.com)
 
